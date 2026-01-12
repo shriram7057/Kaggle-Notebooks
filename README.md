@@ -4,7 +4,7 @@
 </div>
 
 
-<h1 align="center">Welcome to my Kaggle Coding Notebooks Repository! 💡</h1>
+<h1 align="center">Welcome to my Kaggle Notebooks Repository! 💡</h1>
    <p>
         A curated collection of <strong>Kaggle course exercise notebooks</strong> covering
         <strong>Python, Pandas, SQL, Programming Fundamentals, and Game AI / Reinforcement Learning</strong>.
