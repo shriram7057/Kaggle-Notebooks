@@ -1,20 +1,25 @@
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:20px;">
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Kaggle%203d.png?raw=true" height="200" />
-  <img src="https://github.com/shriram7057/shriram7057/blob/main/Ani%20For%20Kaggle.gif?raw=true" height="200" />
-</div>
-
-
 <h1 align="center">Welcome to my Kaggle Notebooks Repository! 💡</h1>
-   <p>
-        A curated collection of <strong>Kaggle course exercise notebooks</strong> covering
-        <strong>Python, Pandas, SQL, Programming Fundamentals, and Game AI / Reinforcement Learning</strong>.
-        This repository serves as a <strong>learning archive and reference</strong> for hands-on data science
-        and machine learning practice using Kaggle’s official educational material.
-    </p>
 
-   <div class="section">
-        <h2>📂 Repository Structure</h2>
-        <pre><code>
+<table border="1" width="100%" cellpadding="10">
+<tr>
+<td>
+A curated collection of <strong>Kaggle course exercise notebooks</strong> covering
+<strong>Python, Pandas, SQL, Programming Fundamentals, and Game AI / Reinforcement Learning</strong>.
+This repository serves as a <strong>learning archive and reference</strong> for hands-on data science
+and machine learning practice using Kaggle’s official educational material.
+</td>
+</tr>
+</table>
+
+<br>
+
+<table border="1" width="100%" cellpadding="10">
+<tr>
+<th align="left">📂 Repository Structure</th>
+</tr>
+<tr>
+<td>
+<pre>
 Kaggle-Notebooks-main/
 │
 ├── Kaggle-Introduction-to-Programming/
@@ -52,85 +57,129 @@ Kaggle-Notebooks-main/
 │   └── Exercise-deep-reinforcement-learning.ipynb
 │
 └── README.md
-        </code></pre>
-    </div>
+</pre>
+</td>
+</tr>
+</table>
 
-   <div class="section">
-        <h2>🎯 Purpose of This Repository</h2>
-        <ul>
-            <li>📚 Practice Kaggle Learn exercises offline</li>
-            <li>🧠 Build strong foundations in Python, Pandas, SQL, and Reinforcement Learning</li>
-            <li>📝 Use as a reference for revision and interview preparation</li>
-            <li>🚀 Track personal learning progress in data science and ML</li>
-        </ul>
-    </div>
+<br>
 
-   <div class="section">
-        <h2>🛠️ Tech Stack</h2>
-        <ul>
-            <li>Python 3.x</li>
-            <li>Jupyter Notebook</li>
-            <li>Pandas</li>
-            <li>NumPy</li>
-            <li>SQL (BigQuery-style queries)</li>
-            <li>Reinforcement Learning concepts</li>
-        </ul>
-    </div>
+<table border="1" width="100%" cellpadding="10">
+<tr>
+<th align="left">🎯 Purpose of This Repository</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li>📚 Practice Kaggle Learn exercises offline</li>
+<li>🧠 Build strong foundations in Python, Pandas, SQL, and Reinforcement Learning</li>
+<li>📝 Use as a reference for revision and interview preparation</li>
+<li>🚀 Track personal learning progress in data science and ML</li>
+</ul>
+</td>
+</tr>
+</table>
 
-  <div class="section">
-        <h2>🚀 Getting Started</h2>
+<br>
 
-  <h3>1️⃣ Clone the Repository</h3>
-        <pre><code>
+<table border="1" width="100%" cellpadding="10">
+<tr>
+<th align="left">🛠️ Tech Stack</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Python 3.x</li>
+<li>Jupyter Notebook</li>
+<li>Pandas</li>
+<li>NumPy</li>
+<li>SQL (BigQuery-style queries)</li>
+<li>Reinforcement Learning concepts</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table border="1" width="100%" cellpadding="10">
+<tr>
+<th align="left">🚀 Getting Started</th>
+</tr>
+<tr>
+<td>
+<strong>1️⃣ Clone the Repository</strong>
+<pre>
 git clone https://github.com/your-username/Kaggle-Notebooks.git
 cd Kaggle-Notebooks
-        </code></pre>
+</pre>
 
-  <h3>2️⃣ Install Dependencies</h3>
-        <pre><code>
+<strong>2️⃣ Install Dependencies</strong>
+<pre>
 pip install notebook pandas numpy
-        </code></pre>
+</pre>
 
-   <h3>3️⃣ Launch Jupyter Notebook</h3>
-        <pre><code>
+<strong>3️⃣ Launch Jupyter Notebook</strong>
+<pre>
 jupyter notebook
-        </code></pre>
-    </div>
+</pre>
+</td>
+</tr>
+</table>
 
- <div class="section">
-        <h2>📘 Recommended Learning Path</h2>
-        <ol>
-            <li>Introduction to Programming</li>
-            <li>Python Notebooks</li>
-            <li>Pandas Notebooks</li>
-            <li>Advanced SQL</li>
-            <li>Game AI & Reinforcement Learning</li>
-        </ol>
-    </div>
+<br>
 
-  <div class="section">
-        <h2>⚠️ Notes</h2>
-        <ul>
-            <li>Based on Kaggle Learn exercises</li>
-            <li>Solutions may be partial or exploratory</li>
-            <li>Intended for educational use only</li>
-            <li>Not officially maintained by Kaggle</li>
-        </ul>
-    </div>
+<table border="1" width="100%" cellpadding="10">
+<tr>
+<th align="left">📘 Recommended Learning Path</th>
+</tr>
+<tr>
+<td>
+<ol>
+<li>Introduction to Programming</li>
+<li>Python Notebooks</li>
+<li>Pandas Notebooks</li>
+<li>Advanced SQL</li>
+<li>Game AI & Reinforcement Learning</li>
+</ol>
+</td>
+</tr>
+</table>
 
-## 🤝 Let's Connect!
-<div align="center">
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heyy_shree_01/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/lahaneshr7f7/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
+<table border="1" width="100%" cellpadding="10">
+<tr>
+<th align="left">⚠️ Notes</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Based on Kaggle Learn exercises</li>
+<li>Solutions may be partial or exploratory</li>
+<li>Intended for educational use only</li>
+<li>Not officially maintained by Kaggle</li>
+</ul>
+</td>
+</tr>
+</table>
 
-</div>
- 
-</div>
+<br>
 
-</body>
-</html>
+<table border="1" width="100%" cellpadding="10">
+<tr>
+<th align="center">🤝 Let's Connect!</th>
+</tr>
+<tr>
+<td align="center">
+
+<a href="https://github.com/shriram7057">GitHub</a> |
+<a href="https://www.linkedin.com/in/shriram-lahane/">LinkedIn</a> |
+<a href="https://leetcode.com/u/shriram_lahane/">LeetCode</a> |
+<a href="https://instagram.com/heyy_shree_01/">Instagram</a> |
+<a href="https://www.geeksforgeeks.org/user/lahaneshr7f7/">GeeksforGeeks</a> |
+<a href="mailto:lahaneshriram2@gmail.com">Email</a>
+
+</td>
+</tr>
+</table>
